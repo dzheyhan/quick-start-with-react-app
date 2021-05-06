@@ -4,4 +4,4 @@ SQLAlchemy_Utils==0.32.14
 requests==2.23.0
 python-dotenv==0.13.0
 PyJWT==1.7.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
